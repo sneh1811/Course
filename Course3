@@ -9,3 +9,5 @@ Pawan Dubey
 Dynamic Programming
 Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
 
+Sneh Valani
+Divide and Conquer algorithms solve problems by breaking them into smaller subproblems, solving each subproblem independently, and then combining their solutions to solve the original problem. This approach reduces complex problems into manageable parts, often leading to efficient and elegant solutions, commonly used in algorithms like merge sort and quicksort.
